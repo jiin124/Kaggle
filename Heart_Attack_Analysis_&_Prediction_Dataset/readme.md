@@ -1,3 +1,7 @@
+# 필사를 통해 새롭게 알게 된 것 정리
+
+
+
 # *파이썬 query*
 
 [[Pandas] Query 함수 사용법 (Pandas의 꽃)](https://m.blog.naver.com/wideeyed/221867273249)
